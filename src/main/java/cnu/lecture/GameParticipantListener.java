@@ -5,6 +5,6 @@ package cnu.lecture;
  */
 
 
-//public interface GameParticipantListener {
-//    void player(String summonerName);
-//}
+public interface GameParticipantListener {
+    void player(String summonerName);
+}
